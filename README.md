@@ -10,7 +10,7 @@ Idea
 
 I stuck
 -------------
-backitude should allow me to add custom HTTP headers. I need `Content-Type": "application/x-www-form-urlencoded` this header to go along with request.
+backitude should allow me to add custom HTTP headers. I need `Content-Type: application/x-www-form-urlencoded` this header to go along with request.
 
 Features
 ----------------
