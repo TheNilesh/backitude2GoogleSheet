@@ -47,3 +47,7 @@ How to obtain Feeds from unpublished google sheet.
       ```
  3. Use link `https://spreadsheets.google.com/feeds/list/[WORKBOOK_ID]/[WORKSHEET_ID]/private/full?v=3.0`.
  4. There you will see comma separated fields `field1:value,field2:value`
+
+Conclusion
+--------------------------------
+This is an easy way to collect data from backitude app, as it does not involve creating server side application. The location data is stored in managable spreadsheet. It can be pulled easily from javascript and rendered on map.
