@@ -16,6 +16,7 @@ Advantage
  0. The spreadsheet can be exclusively shared with specific google users, Say friends Circle. Hence restricted location sharing is possible.
  1. We can obtain RSS, JSON or XML feeds from google sheet.
  2. Using above features we can program web app which can plot those points on map.
+ 3. It is totally free, unlimited quota.
 
 Create Google Form
 --------------------
